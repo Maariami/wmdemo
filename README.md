@@ -15,3 +15,6 @@ git branch -a
 
 remove the branch from local:
 git branch -d <branch name>
+
+to cleanup branches :
+git fetch -p
